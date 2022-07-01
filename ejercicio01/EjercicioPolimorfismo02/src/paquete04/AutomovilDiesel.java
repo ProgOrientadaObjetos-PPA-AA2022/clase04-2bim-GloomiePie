@@ -9,6 +9,6 @@ package paquete04;
  *
  * @author reroes
  */
-public class AutomovilDiesel {
+public class AutomovilDiesel{
     
 }
